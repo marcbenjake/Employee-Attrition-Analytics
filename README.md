@@ -5,6 +5,8 @@ This project analyzes employee attrition patterns at Watson Healthcare using Tab
 
 **Dataset:** 1,676 employees | **Overall Attrition Rate:** 11.87% (199 employees) | **Avg Tenure:** 7.03 years | **Avg Age:** 37 years
 
+**Link to Dashboard** - https://public.tableau.com/app/profile/marcus.jacob/viz/MS4-HealthcareAttritionDashboard/Dashboard1
+
 ---
 
 ## **Key Findings**
